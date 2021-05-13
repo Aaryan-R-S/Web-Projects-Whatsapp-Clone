@@ -1,4 +1,4 @@
-const socket = io('http://localhost:8000');
+const socket = io('https://whatsapp-clone-aaryanars.herokuapp.com');
 
 //Get dom elements in respective js variables
 //css linked-- sendf, text, .cont, mess, messl, messr
